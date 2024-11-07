@@ -1,0 +1,14 @@
+2024-10-31 16:55:56,735 - INFO - Start progress data
+2024-10-31 16:56:01,924 - INFO - Start progress data
+2024-10-31 17:07:45,018 - INFO - Start progress data
+2024-10-31 17:07:45,018 - ERROR - Error progress: unsupported operand type(s) for *: 'NoneType' and 'int'
+2024-10-31 17:07:45,018 - INFO - Finish progress data
+2024-10-31 17:22:05,643 - INFO - Start progress data
+2024-10-31 17:22:05,643 - ERROR - Error progress: unsupported operand type(s) for *: 'NoneType' and 'int'
+2024-10-31 17:22:05,644 - INFO - Finish progress data
+2024-10-31 17:22:05,644 - CRITICAL - Critical error
+2024-11-02 16:33:50,416 - INFO - Start progress data
+2024-11-02 16:33:50,417 - ERROR - Error progress: unsupported operand type(s) for *: 'NoneType' and 'int'
+2024-11-02 16:33:50,417 - INFO - Finish progress data
+2024-11-02 16:33:50,417 - CRITICAL - Critical error
+2024-11-02 16:46:07,286 - ERROR - The password must contain at least one special character
