@@ -34,7 +34,6 @@ try:
 except WeakPasswordError as e:
     print("Error: ", e)
 
-
 try:
     with open("file.txt", 'r') as file:
         data = file.read()
